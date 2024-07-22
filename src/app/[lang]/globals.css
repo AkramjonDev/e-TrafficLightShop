@@ -1,0 +1,148 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --body-color: #ffffff;
+  --background-color: #f3f4f6;
+  --red-color: #405D72;
+  --hover-color: #567A93;
+}
+html,
+body,
+#__next {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  background: var(--body-color);
+}
+
+#root,
+.App {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+main {
+  flex-grow: 1;
+}
+
+footer {
+  flex-shrink: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #111111;
+  /* font-family: "Montserrat"; */
+}
+p {
+  color: #111111;
+  /* font-family: "Montserrat"; */
+}
+
+input{
+  background: #ffffff;
+}
+
+.container {
+  width: 100%;
+  max-width: 1370px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* Base Button Styles */
+.site-btn,
+.site-btn2 {
+  background-color: var(--red-color);
+  padding: 9px 25px;
+  text-align: center;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Rounded Buttons */
+.site-btn {
+  border-radius: 27px;
+}
+
+.site-btn2 {
+  border-top-left-radius: 27px;
+  border-bottom-left-radius: 27px;
+}
+
+.site-btn:hover,
+.site-btn2:hover {
+  background-color: #405D72;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.site-btn:active,
+.site-btn2:active {
+  background-color: #ffaf19;
+  color: var(--red-color);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+@media screen and (max-width: 768px) {
+  .site-btn,
+  .site-btn2 {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .site-btn,
+  .site-btn2 {
+    padding: 8px 15px;
+    font-size: 14px;
+  }
+}
+
+.nav-item {
+  font-weight: 600;
+  font-size: 15px;
+  padding: 14px 15px;
+  margin: 0;
+}
+.nav-item:hover {
+  color: #105cff;
+}
+.faPhone {
+  width: 50px;
+  height: 50px;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.08);
+  border-radius: 50%;
+}
+input {
+  outline: none;
+}
+.div-logo:hover img {
+  transform: rotateY(3600deg);
+  transition: transform 20s linear;
+}
+@media screen and (max-width: 640px) {
+  .div-logo {
+    zoom: 0.6;
+  }
+}

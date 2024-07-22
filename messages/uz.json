@@ -1,0 +1,288 @@
+{
+  "Header": {
+    "about": {
+      "title": "Kompaniya haqida",
+      "link": "/about"
+    },
+    "produce": {
+      "title": "Ishlab chiqarish",
+      "link": "/produce"
+    },
+    "price": {
+      "title": "Narxlar",
+      "link": "/price"
+    },
+    "catalog": {
+      "title": "Mahsulotlar",
+      "link": "/catalog"
+    },
+    "video": {
+      "title": "Video sharhlar",
+      "link": "/video-abzor"
+    },
+    "contact": {
+      "title": "Kontaktlar",
+      "link": "/contact"
+    },
+    "logo": {
+      "title": "Oltiariq innovatsion markazi",
+      "link": "/"
+    },
+    "workTime": "Ish kunlari soat 5.00 dan 17.00 gacha",
+    "call": "Murojat uchun"
+  },
+  "Footer": {
+    "footerContact": "Biz bilan bog'lanish",
+    "footerInfo": "Ma'lumot",
+    "footerDelivery": "Manzilga yetkazib berish",
+    "footerSocial": "Bizning ijtimoiy tarmoqlarimiz",
+    "footerRes": "© 2024 Oltiariq innovatsion markazi. Barcha hizmatlar litsenziyalangan.",
+    "logo": "Oltiariq innovatsion markazi",
+    "workTime": "Ish kunlari soat 5.00 dan 17.00 gacha",
+    "about": {
+      "title": "Kompaniya haqida",
+      "link": "/about"
+    },
+    "produce": {
+      "title": "Ishlab chiqarish",
+      "link": "/produce"
+    },
+    "price": {
+      "title": "Narxlar",
+      "link": "/price"
+    },
+    "catalog": {
+      "title": "Mahsulotlar",
+      "link": "/catalog"
+    },
+    "video": {
+      "title": "Video sharhlar",
+      "link": "/video-abzor"
+    },
+    "contact": {
+      "title": "Kontaktlar",
+      "link": "/contact"
+    }
+  },
+  "Swiper_1": {
+    "title1": "Innovatsion xavfsizlik yechimlari",
+    "desc1": "Biz yo'l harakatini yaxshilash uchun keng ko'lamli innovatsion yechimlarni taklif etamiz, shu jumladan yo'l harakati xavfsizligi, svetoforlarni zamonaviy dizayn uslubida o'rnatish, tezlikni boshqarish tizimlari va boshqalar.",
+    "title2": "Shahar tirbandligi uchun samarali echimlar",
+    "desc2": "Kompaniyamiz shahar transporti uchun innovatsion yechimlarni taklif etadi, jumladan, svetoforning zamonaviy tizimlarini ishlab chiqish va joriy etish, transport oqimini boshqarish va boshqa ko‘p narsalar. Biz fuqarolarning hayotini yaxshilash va yo‘l harakati xavfsizligini ta’minlaydigan aqlli va samarali tizimlarni yaratishga intilamiz."
+  },
+  "Swiper_2": {
+    "title": "Farg'onadagi yo'l harakati svetoforlari",
+    "title1": "Ommabop tovarlar",
+    "desc": "Tashkilotimiz Farg'ona shahrida svetoforlar ishlab chiqaradi va O'zbekiston bo'ylab mahsulotlar yetkazib beradi. Farg'onadagi 'Oltiariq innovatsion markazi' bo'linmasi 'MANZIL' joylashgan O'zbekiston Respublikasi barcha sub'ektlariga xizmat ko'rsatadi.Tayyor mahsulotlar to'g'ridan-to'g'ri Farg'ona omboridan mijozlarga yuboriladi. Biz rivojlanishning maksimal tezligini va xaridorga yo'l harakati nazorati mahsulotlarini va belgilarini yetkazib berishni va o'rnatishni ta'minlaymiz."
+  },
+  "Swiper_3": {
+    "title": "Video abzor"
+  },
+  "ProductItem": {
+    "info": "Batafsil"
+  },
+  "ProductCatalog": {
+    "title": "Shaharlarda harakatlanish uchun xavfsizlik va samaradorlikni oshirish",
+    "desc": "Bizning mahsulot assortimentimiz turli xil transport stsenariylariga javob beradigan yo'l signallarining turli modellari va konfiguratsiyasini o'z ichiga oladi. An'anaviy qizil-yashil svetoforlar, piyodalar signallari yoki vaqtli harakatni boshqarish   tizimlari bo'ladimi, biz yuqori sifatli mahsulotlarni taklif etamiz,  ular puxta dizayn va jiddiy sinovdan o'tadi, ularning barqarorligi va mustahkamligini ta'minlaydi",
+    "svetofor": "Piyodalar uchun svetofor",
+    "svetofor2": "Motorsiz texnikalar uchun svetoforlar",
+    "svetofor3": "Yo'nalish svetofor turlari",
+    "svetofor4": "Quyosh battareyali svetoforlar"
+  },
+
+  "Form": {
+    "title": "Izlaganingizni topaolmadingizmi?",
+    "desc": "Bizga yozing va biz bir ish kuni ichida siz bilan bog'lanamiz",
+    "name": "Ismingiz ?",
+    "phoneNumber": "Aloqa uchun telefon raqamingiz",
+    "data": "Savolingiz",
+    "btn": "Jonatish"
+  },
+  "Info": {
+    "title": "Ishlab chiqaruvchidan Svetaforlar: arzon va sifatli mahsulotlar",
+    "desc": "Yo'l belgilarini yaratish uchun yaxshi sherik qidiryapsizmi? Sizning ehtiyojlaringiz va byudjetingiz o'rtasida murosaga kelishi mumkin bo'lgan sifatli mahsulotlarga buyurtma bermoqchimisiz? Kompaniyamiz katalogida uzoq vaqt davom etadigan GOSTga muvofiq ishlab chiqarilgan yo'l belgilarini sotib olish foydalidir! Oltiariq innovatsion markazi ishlab chiqaruvchisi kompaniyalar va jismoniy shaxslarga hamkorlikning qiziqarli variantlarini kafolatlaydi. Agar siz me'yoriy hujjatlar talablariga muvofiq yangi hududni jihozlashingiz yoki foydalanishga yaroqliligini yo'qotgan yo'l inshootlarini almashtirishingiz kerak bo'lsa, kompaniyamiz bilan bog'laning. 1-3 kun ichida siz uchun istalgan hajmdagi buyurtmani ishlab chiqaramiz. Oltiariq innovatsion markazi kompaniyasi o'zining ishlab chiqarish va yuqori sifatli uskunalariga ega, eng so'nggi qonunchilik, yo'l harakati qoidalari, qoidalar va standartlar haqida ma'lumotga ega. Mijozlar ixtiyorida standartlarga qat'iy muvofiq ishlab chiqarilgan yoki individual dizaynlashtirilgan, uzoq xizmat muddati, arzon narxlarda yuqori sifatli, ko'rinadigan yo'l ob'ektlari mavjud."
+  },
+  "AboutPage": {
+    "title1": "Biz haqimizda",
+    "desc1": "Oltiariq innovatsion markazi ga xush kelibsiz, biz xavfsizlik, samaradorlik, chidamlilik va yuqori sifatli LED svetoforlarni ishlab chiqaruvchi kompaniyamiz. Biz o'z mijozlarimizni qoniqtirish va innovatsiyalarni tatbiq etishni o'z oldimizga maqsad qilib olganmiz.",
+    "desc2": "Siz tirbandlikni boshqarish tizimlarini yaxshilashni yoki mavjud infratuzilmani yangilashni xohlasangiz, bizning mahsulotlarimiz ishonchlilik va samaradorlikning eng yuqori standartlariga mos keladi.",
+    "title2": "Bizning Missiyamiz",
+    "desc3": "Oltiariq innovatsion markazida, bizning missiyamiz transportni boshqarishni xavfsizlik va samaradorlikni oshiradigan innovatsion LED yechimlari orqali inqilob qilishdir. Biz shaharlik harakatchanlikni yaxshilash va atrof-muhitga ta'sirini kamaytirish uchun doim harakatdamiz.",
+    "title3": "Bizning Qadriyatlarimiz",
+    "li1": "Innovatsiya: Bizning mijozlarimizning o'zgaruvchan ehtiyojlariga mos keladigan zamonaviy texnologiyalarni doimiy rivojlantirish.",
+    "li2": "Sifat: Ishlab chiqarish va mijozlarga xizmat ko'rsatishda eng yuqori standartlarni saqlash.",
+    "li3": "Barqarorlik: Bizning mahsulot ekologik toza amaliyotlar va uglerod ishlab chiqarishni kamaytirishga mos keladi.",
+    "title4": "Bizning Jamoamiz",
+    "desc4": "Bizning jamoamiz tirbandlikni boshqarish tizimlari va LED texnologiyalari sohasida keng tajribaga ega bo'lgan ishtiyoqli mutaxassislardan iborat. Biz mijozlarimizga innovatsion yechimlarni taqdim etish uchun birgalikda ishlaymiz, har bir loyiha aniqlik va mukammallik bilan amalga oshirilishini ta'minlaymiz.",
+    "title5": "Biz bilan aloqa",
+    "desc5": "Agar sizda biron-bir savol bo'lsa yoki mahsulotlarimiz haqida ko'proq ma'lumot olishni istasangiz, iltimos, biz bilan bog'laning.",
+    "span": "Kompaniya haqida",
+    "title": "Yo'l belgilarini va Svetoforlar ishlab chiqaruvchi - Oltiariq innovatsion kompaniyasi",
+    "link": "Bosh sahifa"
+  },
+  "catalog": {
+    "btnSearch": "Qidirish",
+    "searchPlaceholder": "Qidiruv...",
+    "addToCartSuccess": "Savatchaga qo'shildi!",
+    "addToCartError": "Iltimos, variantni tanlang",
+    "buy": "Sotib olish",
+    "price": "Narxi",
+    "variants": "Variantlar",
+    "detail": {
+      "signalOutputDiameter": "Signal chiqishi diafragma diametri",
+      "signalColor": "Signal rangi",
+      "powerConsumption": "Bo'lim uchun quvvat sarfi",
+      "operatingVoltage": "Ishlash kuchlanishi",
+      "operatingTemperatureRange": "Ishlash harorati oralig'i"
+    },
+    "trafficLights": [
+      {
+        "id": 1,
+        "image": "img1",
+        "title": "ledTrafficLightT1",
+        "details": [
+          { "label": "signalOutputDiameter", "value": "200mm/300mm" },
+          { "label": "signalColor", "value": "qizil/sariq/yashil" },
+          { "label": "powerConsumption", "value": "18 Vt / 25 Vt" },
+          { "label": "operatingVoltage", "value": "220 V" },
+          { "label": "operatingTemperatureRange", "value": "-60 dan +60 gacha" }
+        ],
+        "options": [
+          { "label": "Svetofor T.1.1 (ø 200 mm)", "price": 150 },
+          { "label": "Svetofor T.1.2 (ø 300 mm)", "price": 170 }
+        ]
+      },
+      {
+        "id": 2,
+        "image": "img2",
+        "title": "ledTrafficLightT6T7T12",
+        "details": [
+          { "label": "signalOutputDiameter", "value": "200mm/300mm" },
+          { "label": "signalColor", "value": "qizil/sariq/yashil" },
+          { "label": "powerConsumption", "value": "18 Vt / 25 Vt" },
+          { "label": "operatingVoltage", "value": "220 V" },
+          { "label": "operatingTemperatureRange", "value": "-60 dan +60 gacha" }
+        ],
+        "options": [
+          { "label": "Svetofor T.6.1 (qizil, ø 200 mm)", "price": 110 }
+        ]
+      },
+      {
+        "id": 3,
+        "image": "img3",
+        "title": "ledTrafficLightT6dT7d",
+        "details": [
+          { "label": "signalOutputDiameter", "value": "200mm/300mm" },
+          { "label": "signalColor", "value": "qizil/sariq/yashil" },
+          { "label": "powerConsumption", "value": "18 Vt / 25 Vt" },
+          { "label": "operatingVoltage", "value": "220 V" },
+          { "label": "operatingTemperatureRange", "value": "-60 dan +60 gacha" }
+        ],
+        "options": [
+          { "label": "Svetofor T.6.d.1 (qizil, ø 200 mm)", "price": 190 },
+          { "label": "Svetofor T.6.d.2 (qizil, ø 300 mm)", "price": 210 },
+          { "label": "Svetofor T.7.d.1 (sariq, ø 200 mm)", "price": 200 },
+          { "label": "Svetofor T.7.d.2 (sariq, ø 300 mm)", "price": 220 }
+        ]
+      },
+      {
+        "id": 4,
+        "image": "img4",
+        "title": "ledTrafficLightT8",
+        "details": [
+          { "label": "signalOutputDiameter", "value": "200mm/300mm" },
+          { "label": "signalColor", "value": "qizil/yashil" },
+          { "label": "powerConsumption", "value": "18 Vt / 25 Vt" },
+          { "label": "operatingVoltage", "value": "220 V" },
+          { "label": "operatingTemperatureRange", "value": "-60 dan +60 gacha" }
+        ],
+        "options": [
+          { "label": "Svetofor T.8.1 (qizil, ø 200 mm)", "price": 120 },
+          { "label": "Svetofor T.8.2 (qizil, ø 300 mm)", "price": 140 }
+        ]
+      },
+      {
+        "id": 5,
+        "image": "img5",
+        "title": "ledTrafficLightT8_1T8_2",
+        "details": [
+          { "label": "signalOutputDiameter", "value": "200mm/300mm" },
+          { "label": "signalColor", "value": "qizil/yashil" },
+          { "label": "powerConsumption", "value": "18 Vt / 25 Vt" },
+          { "label": "operatingVoltage", "value": "220 V" },
+          { "label": "operatingTemperatureRange", "value": "-60 dan +60 gacha" }
+        ],
+        "options": [
+          { "label": "Svetofor T.8.1 (yashil, ø 200 mm)", "price": 120 },
+          { "label": "Svetofor T.8.2 (qizil, ø 200 mm)", "price": 140 }
+        ]
+      },
+      {
+        "id": 6,
+        "image": "img6",
+        "title": "ledTrafficLightT8_1T8_2",
+        "details": [
+          { "label": "signalOutputDiameter", "value": "200mm/300mm" },
+          { "label": "signalColor", "value": "qizil/yashil" },
+          { "label": "powerConsumption", "value": "18 Vt / 25 Vt" },
+          { "label": "operatingVoltage", "value": "220 V" },
+          { "label": "operatingTemperatureRange", "value": "-60 dan +60 gacha" }
+        ],
+        "options": [
+          { "label": "Svetofor T.8.1 (yashil, ø 200 mm)", "price": 120 },
+          { "label": "Svetofor T.8.2 (qizil, ø 200 mm)", "price": 140 }
+        ]
+      },
+      {
+        "id": 7,
+        "image": "img7",
+        "title": "ledTrafficLightT8_1T8_2",
+        "details": [
+          { "label": "signalOutputDiameter", "value": "200mm/300mm" },
+          { "label": "signalColor", "value": "qizil/yashil" },
+          { "label": "powerConsumption", "value": "18 Vt / 25 Vt" },
+          { "label": "operatingVoltage", "value": "220 V" },
+          { "label": "operatingTemperatureRange", "value": "-60 dan +60 gacha" }
+        ],
+        "options": [
+          { "label": "Svetofor T.8.1 (yashil, ø 200 mm)", "price": 120 }
+        ]
+      }
+    ]
+  },
+  "productionPage": {
+    "link": "Bosh sahifa",
+    "span": "Ishlab chiqarish",
+    "title1": "Ishlab chiqarish jarayoni",
+    "desc1": "Bizning samarador ishlab chiqarish jarayonimizga xush kelibsiz. Innovatsiyalar va sifat kafolatiga ega bo'lgan har bir qadamni kashf eting.",
+    "title2": "Bizning jarayonni o'rganing",
+    "desc2": "Bizning ishlab chiqarish quvvatlarimizni yaqindan ko'ring — samaradorlik va innovatsiyalar bilan.",
+    "title3": "Bizning Ishlab chiqarish Jarayonimiz",
+    "desc3": "Bizning ishlab chiqarish jarayonimiz yuqori sifat va samaradorlikni ta'minlash uchun bir necha muhim bosqichlarni o'z ichiga oladi. Har bir bosqich mijozlarimizning talablariga javob berish uchun mo'ljallangan va eng yangi texnologiyalar yordamida amalga oshiriladi.",
+    "title4": "Ishlab chiqarish Bosqichlari",
+    "title5": "Loyihalashtirish va rejalashtirish",
+    "desc4": "Maxsus echimlar ishlab chiqamiz va ishlab chiqarish rejalarini tayyorlaymiz.",
+    "title6": "Materiallar tayyorlash",
+    "desc5": "Sifatli materiallarni tayyorlash va saralash.",
+    "title7": "Texnologiyalar",
+    "desc6": "Biz yuqori sifatli mahsulotlar ishlab chiqarish uchun eng yangi texnologiyalardan foydalanamiz. Bizning texnologiyalarimiz samaradorlikni oshiradi va mahsulotlarimiz sifatini ta’minlaydi.",
+    "title8": "Muvaffaqiyat Hikoyalari",
+    "desc7": "Bizning ishlab chiqarish jarayonimizni qo'llab-quvvatlagan eng yaxshi mijoz loyihalari haqida o'qing.",
+    "btnTitle": "Qo'shimcha ma'lumot",
+    "title9": "Tez-tez so'raladigan savollar",
+    "accTitle": " Ishlab chiqarish jarayoniga qancha vaqt ketadi?",
+    "accDesc": "Odatda, ishlab chiqarish jarayonimiz buyurtmaning hajmi va murakkabligiga qarab 2-4 hafta davom etadi.",
+    "accTitle2": "Loyihani tasdiqlash jarayoni qancha vaqt davom etadi?",
+    "accDesc2": "Odatda, loyihani tasdiqlash jarayoni mijozning o'zaro fikr bildirishi va talablarining murakkabligiga qarab 1-2 hafta davom etadi.",
+    "accTitle3": "Mahsulotlarni tayyorlash uchun kerakli materiallarni etkazib berish qancha vaqt oladi?",
+    "accDesc3": "Odatda, materiallarni etkazib berish jarayoni yetkazib beruvchilarning mavjudligi va transportga qarab 1-3 hafta davom etadi"
+  },
+  "contactPage": {
+    "link": "Bosh sahifa",
+    "span": "Kontaktlar",
+    "title1": "Kontaktlar",
+    "title2": "Bosh o'ffis va ishlab chiqarish hududi",
+    "manzil": "Manzil:",
+    "desc1": "9F6X+X6G, Oltiariq, Farg'ona Viloyati, Узбекистан"
+  }
+}
